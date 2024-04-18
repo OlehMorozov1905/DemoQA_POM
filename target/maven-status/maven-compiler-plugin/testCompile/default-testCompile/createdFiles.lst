@@ -1,0 +1,8 @@
+com\demoqa\tests\DownloadTest.class
+com\demoqa\tests\DroppableTests.class
+com\demoqa\tests\NewWindowsTest.class
+com\demoqa\tests\PracticeFormTest.class
+com\demoqa\tests\SelectMenuTests.class
+com\demoqa\tests\AlertsTests.class
+com\demoqa\tests\BrokenLinksImagesTests.class
+com\demoqa\tests\TestBase.class

@@ -1,0 +1,10 @@
+com\demoqa\pages\PracticeFormPage.class
+com\demoqa\pages\DroppablePage.class
+com\demoqa\pages\HomePage.class
+com\demoqa\pages\DownloadPage.class
+com\demoqa\pages\AlertsPage.class
+com\demoqa\pages\BasePage.class
+com\demoqa\pages\SelectMenuPage.class
+com\demoqa\pages\SidePanel.class
+com\demoqa\pages\BrokenLinksImagesPage.class
+com\demoqa\pages\BrowserWindowsPage.class
